@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Columbia_University_1754.svg" width="400" valign="left">
+
 # Benchmarking Deep Generative Models and Classical Baselines for Single-Cell Analysis of Peripheral Blood and Thymic Tissues in Myasthenia Gravis
 
 **Course:** Applied Data Science for Computational Biology @ Columbia University  
